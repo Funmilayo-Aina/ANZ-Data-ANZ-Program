@@ -1,0 +1,2 @@
+# ANZ-Data-ANZ-Program
+Data Science is a contact sport at ANZ - it’s about mining and linking datasets to develop stories that matter and challenge the status quo.   We are looking to distill unique insights from the data that will enable us to take action. We want to know “what does all this data actually mean for us and our clients, and what should we do next?”  This program gives you a small peek into the exciting Data@ANZ world
